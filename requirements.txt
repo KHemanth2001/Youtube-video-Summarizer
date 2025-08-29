@@ -1,0 +1,5 @@
+#requirements.txt
+youtube_transcript_api
+transformers
+gradio
+torch
